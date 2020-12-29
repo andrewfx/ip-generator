@@ -22,3 +22,5 @@ print("For reference, each VLAN is split into /24 subnets, where the vlan number
 
 time.sleep(1)
 generate_ip()
+
+print("This is a test")
